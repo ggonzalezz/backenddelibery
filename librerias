@@ -1,0 +1,4 @@
+npm i firebase-admin
+npm i @google-cloud/storage
+//archivos en node
+npm i multer
